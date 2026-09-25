@@ -18,7 +18,7 @@ printf("3. Lab 1 - Circuit 3\n");
 printf("4. Exit\n");
 
 //Doing the menu selection.
-printf("Select your choice: 1");
+printf("Select your choice: ");
 scanf("%d", &choice);
 
 switch(choice){
