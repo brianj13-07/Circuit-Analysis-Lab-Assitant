@@ -71,7 +71,7 @@ printf("The value for Vde is(V) = ");
 scanf("%lf", &vde);
 printf("The value for Vad is(V) = ");
 scanf("%lf", &vad);
-printf("The val1ue for I1 is(A) = ");
+printf("The value for I1 is(A) = ");
 scanf("%lf", &i1);
 
 //Show the inserted values
@@ -127,9 +127,9 @@ printf("The value for Vde is(V) = ");
 scanf("%lf", &vde);
 printf("The value for Vad is(V) = ");
 scanf("%lf", &vad);
-printf("The val1ue for I1 is(A) = ");
+printf("The value for I1 is(A) = ");
 scanf("%lf", &i1);
-printf("The val1ue for I2 is(A) = ");
+printf("The value for I2 is(A) = ");
 scanf("%lf", &i2);
 
 //Show the inserted values
@@ -188,7 +188,7 @@ printf("The value for Vde is(V) = ");
 scanf("%lf", &vde);
 printf("The value for Vfg is(V) = ");
 scanf("%lf", &vfg);
-printf("The val1ue for Vab is(V) = ");
+printf("The value for Vab is(V) = ");
 scanf("%lf", &vab);
 
 //Known operations from the lab sheet
