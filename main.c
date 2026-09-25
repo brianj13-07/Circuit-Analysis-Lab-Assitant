@@ -43,7 +43,7 @@ while(choice != 4);
 return 0;
 
 }
-//Define circuit 2 and store for the variable
+//Define circuit 1 and store for the variable
 void circuit1(void){
 printf("--------CIRCUIT 1---------\n");
 //Known values from the lab sheet
@@ -165,7 +165,7 @@ else{
 
 }
 
-//Define circuit 2 and store for the variable
+//Define circuit 3 and store for the variable
 void circuit3(void){
 printf("--------CIRCUIT 3---------\n");
 
