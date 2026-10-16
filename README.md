@@ -180,6 +180,32 @@ The program calculates the difference between the total current and the sum of t
 
 This week I learned how to organize a C program using multiple functions and a menu system. I also practiced using C calculations to verify electrical circuit behavior instead of only performing calculations manually.
 
+## Week 2 - Lab Activity 2
+
+### Added
+- Lab 2 measurement input
+- KCL verification at the middle node
+- KCL verification at the right node
+- KVL verification for multiple loops
+- Current and voltage tolerance checks
+
+### C Concepts Practiced
+- Reusing functions
+- `if...else`
+- Mathematical expressions
+- `fabs()`
+- Multiple circuit checks inside one lab function
+
+### Electrical Engineering Concepts Practiced
+- Kirchhoff's Current Law
+- Kirchhoff's Voltage Law
+- Branch currents
+- Loop voltages
+- Circuit verification using measured values
+
+### What I Learned
+This week I used measured currents and voltages to verify KCL and KVL automatically. I also practiced comparing calculated differences against tolerances instead of requiring exact equality.
+
 ---
 
 # Future Development
